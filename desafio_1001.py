@@ -8,7 +8,12 @@ Não apresente mensagem alguma além daquilo que está sendo especificado e
 não esqueça de imprimir o fim de linha após o resultado, caso contrário,
 você receberá "Presentation Error".
 """
+A = int(input())
+B = int(input())
 
+X = A + B
+
+print("X =", X)
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
